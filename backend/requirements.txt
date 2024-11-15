@@ -6,3 +6,8 @@ python-dotenv==1.0.0
 alembic==1.13.1
 pydantic==2.6.1
 pydantic-settings==2.1.0
+fastapi-sqlalchemy==0.2.1
+sqladmin==0.16.0
+python-multipart==0.0.9
+python-jose==3.3.0
+itsdangerous==2.1.2 
